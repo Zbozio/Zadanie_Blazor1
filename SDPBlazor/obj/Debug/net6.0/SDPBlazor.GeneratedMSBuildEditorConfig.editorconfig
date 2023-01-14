@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SDPBlazor
+build_property.RootNamespace = SDPBlazor
+build_property.ProjectDir = C:\Users\karol\source\repos\SDPBlazor\SDPBlazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\karol\source\repos\SDPBlazor\SDPBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Pages/CodeInterpreter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29kZUludGVycHJldGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Pages/Converters/Converters.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyc1xDb252ZXJ0ZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Pages/Converters/DistanceConverter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyc1xEaXN0YW5jZUNvbnZlcnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Pages/Converters/TimeConverter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyc1xUaW1lQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Pages/ToDo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9Eby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zs5fhb60ct
+
+[C:/Users/karol/source/repos/SDPBlazor/SDPBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vww3bbnj7o
